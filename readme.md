@@ -1,0 +1,1 @@
+To run notes-app app first you need to run npm install.
